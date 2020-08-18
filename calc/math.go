@@ -7,3 +7,6 @@ func Add(i int, j int) int {
 func Multiply(i int, j int) int {
 	return i * j
 }
+func Divide(i int, j int) int {
+	return i / j
+}
